@@ -10,6 +10,12 @@ namespace Investigacion
 	{
 		static void Main(string[] args)
 		{
+			var person = Person.Builder()
+				.Name("Juan")
+				.Age(30)
+				.Build();
+
+			person.PrintData();
 		}
 	}
 }

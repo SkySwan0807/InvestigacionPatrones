@@ -1,0 +1,7 @@
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\bin\Debug\Investigacion.exe.config
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\bin\Debug\Investigacion.exe
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\bin\Debug\Investigacion.pdb
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\obj\Debug\Investigacion.csproj.AssemblyReference.cache
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\obj\Debug\Investigacion.csproj.CoreCompileInputs.cache
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\obj\Debug\Investigacion.exe
+E:\Nicolas\Patrones de Diseño\Investigacion\Investigacion\obj\Debug\Investigacion.pdb
